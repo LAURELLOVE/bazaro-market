@@ -20,4 +20,4 @@ Open `index.html` in a browser, or serve the folder:
 All products, sellers, prices and reviews are sample data.
 
 ## Design
-Figma: _add link here_
+Figma: https://www.figma.com/design/MrSNezecfjdM0MG6x7ohM8
